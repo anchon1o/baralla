@@ -1,0 +1,12 @@
+{
+  "name": "Baralla — xogos de baralla española",
+  "short_name": "Baralla",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3ebdc",
+  "theme_color": "#f3ebdc",
+  "icons": [
+    { "src": "icono-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icono-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
